@@ -1,9 +1,9 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Desenvolvedor de Software Pleno.
 - 🎓 Estudando {seu curso} no {faculdade}.
 - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🌱 Sempre disposto a apreender novas tecnologias.
 
 ## Minhas Skills
 
