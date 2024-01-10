@@ -1,8 +1,8 @@
 ## Sobre mim
 
 - 🤔 Desenvolvedor de Software Pleno.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🎓 Especialização em Desenvolvimento em Aplicações Móveis.
+- 💼 Trabalhando atualmente principalmente com Flutter e JavaScript.
 - 🌱 Sempre disposto a apreender novas tecnologias.
 
 ## Minhas Skills
