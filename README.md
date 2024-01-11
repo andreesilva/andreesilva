@@ -3,7 +3,7 @@
 - 🤔 Desenvolvedor de Software Pleno.
 - 🎓 Especialização em Desenvolvimento em Aplicações Móveis.
 - 💼 Trabalhando atualmente principalmente com Flutter e JavaScript.
-- 🌱 Sempre disposto a apreender novas tecnologias.
+- 🌱 Sempre disposto a aprender novas tecnologias.
 
 ## Minhas Skills
 
