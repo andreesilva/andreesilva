@@ -43,4 +43,3 @@
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-andre.erminio@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre.erminio@gmail.com)](mailto:andre.erminio@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
