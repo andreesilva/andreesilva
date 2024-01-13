@@ -42,6 +42,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-andré-ermínio?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-erm%C3%ADnio-04b7a66b/)](https://www.linkedin.com/in/andr%C3%A9-erm%C3%ADnio-04b7a66b/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-erm%C3%ADnio-04b7a66b/)](https://www.linkedin.com/in/andr%C3%A9-erm%C3%ADnio-04b7a66b/)
 [![Gmail Badge](https://img.shields.io/badge/-andre.erminio@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre.erminio@gmail.com)](mailto:andre.erminio@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
