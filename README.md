@@ -9,8 +9,11 @@
 
 <div style="display: inline">	
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'/>
+	<img width='50' height='50' src='hhtps://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'/>	
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg'/>
