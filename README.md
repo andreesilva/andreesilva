@@ -34,7 +34,7 @@
 
 </br>
 
-## Atualmente trabalhando com**
+## Atualmente trabalhando com
 
 <div style="display: inline">
 	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'/>
