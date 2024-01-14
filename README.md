@@ -7,30 +7,39 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
-
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
-![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=NodeJS)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-<div style="display: inline">
-	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'/>
-        <img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
+<div style="display: inline">	
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'/>	
+</div>
+
+
+
+**Atualmente focado mais em**
+
+<div style="display: inline">
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'/>
+        <img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/>
 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'/>
-	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'/>
+	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'/>
+ 	<img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'/>
+	
 </div>
+
+
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg
+**Aplicações e dados**
 
 **Utilidades**
 
