@@ -42,4 +42,6 @@
 
 ## Onde me encontrar
 
+<a href="https://www.linkedin.com/in/andr%C3%A9-erm%C3%ADnio-04b7a66b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 [![Gmail Badge](https://img.shields.io/badge/-andre.erminio@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre.erminio@gmail.com)](mailto:andre.erminio@gmail.com)
