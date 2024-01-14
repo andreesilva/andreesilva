@@ -19,6 +19,12 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=NodeJS)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+<div style=“display: inline”>
+	<img width=“50” height=“50” src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg”/>
+        <img width=“50” height=“50” src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg”/>
+	<img width=“50” height=“50” src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg”/>
+</div>
+
 **Utilidades**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
