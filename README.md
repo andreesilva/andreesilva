@@ -4,6 +4,8 @@
 - 📱 Especialização em Desenvolvimento em Aplicações Móveis.
 - 🤓 Sempre disposto a aprender novas tecnologias.
 
+</br>
+
 ## Minhas Skills
 
 <div style="display: inline">	
@@ -47,7 +49,6 @@
 	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'/>
  	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'/>	
 </div>
-
 
 <br/>
 
