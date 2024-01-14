@@ -1,9 +1,9 @@
 ## Sobre mim
 
-- 🤔 Desenvolvedor de Software Pleno.
+- 👨🏾‍💻 Desenvolvedor de Software Pleno.
 - 🎓 Especialização em Desenvolvimento em Aplicações Móveis.
 - 💼 Trabalhando atualmente principalmente com Flutter e JavaScript.
-- 🌱 Sempre disposto a aprender novas tecnologias.
+- 🤓 Sempre disposto a aprender novas tecnologias.
 
 ## Minhas Skills
 
@@ -50,9 +50,6 @@
 	
 </div>
 
-
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg
 **Aplicações e dados**
 
 **Utilidades**
