@@ -16,9 +16,6 @@
 	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
 	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'/>	
 	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/>
-	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg'/>
-	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg'/>
-	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'/>	
 	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'/>
         <img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
 	<img width='40' height='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'/>
